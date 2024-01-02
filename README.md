@@ -1,13 +1,13 @@
 # AlltunedIn - MERN Stack Blog Web App
 # Table of Contents
 1. [Introduction](#Introduction) 
-2. Features
-3. Prerequisites
-4. Installation
-5. Folder Structure
-6. Technologies Used
-7. Website Details
-8. Images
+2. [Features](#Features)
+3. [Prerequisites](#Prerequisites)
+4. [Installation](#Installation)
+5. [Folder Structure](#Folder-Structure)
+6. [Technologies Used](#Technologies-Used)
+7. [Website Details](#Website-Details)
+8. [Images](#Images)
 
 ## 1. Introduction
 AlltunedIn is a blog web app built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to create, edit, and delete blog posts, as well as comment on posts.
