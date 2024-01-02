@@ -36,6 +36,7 @@ Before you begin, ensure you have the following installed:
 6. Start the server.
 7. Start the client.
 8. Open your browser and go to http://localhost:3000 to use the application.
+9. If you want to see direct preview of the website refer:https://blog-web-app-ea2z.vercel.app/
 
 ## 5. Folder Structure
 
